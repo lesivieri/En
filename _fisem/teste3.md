@@ -1,6 +1,6 @@
 ---
-title: Test Page
-layout: post
+layout: page
+title: Física - Ensino Médio
 ---
 
 # Introdução
@@ -40,12 +40,3 @@ Os conteúdos disponíveis (***em construção***):
 
 </ul>
 
-<!--<ul>
-    <li> <a href="https://github.com/lesivieri/Curso-Fisica-Basica-teste/blob/main/Introdu%C3%A7%C3%A3o.md">Introdução</a>
-    <ol type="i">
-        <li><em></em></li>
-    </ol>
-
-   </li>
-
-</ul>--->
